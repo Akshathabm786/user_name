@@ -1,3 +1,4 @@
+<<COM
 raani
 raaj
 purvank
@@ -13,4 +14,14 @@ paluri
 vaish
 sumukh
 aksh
+COM
 
+akshatha
+vaishnavi
+pur
+pii
+boy1
+girl1
+girl2
+rina
+vaish
